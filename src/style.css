@@ -1,0 +1,31 @@
+.projects {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 3rem;
+    justify-content: center;
+    text-align: center;
+    list-style-type: none;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+h1,h2,p {
+    text-align: center;
+}
+
+.experience-studies {
+    list-style-type: none;
+    text-align: center;
+    gap: 6rem;
+}
+
+.navBar {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
